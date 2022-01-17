@@ -1,5 +1,5 @@
 class Planificador():
-    generadorID = 0
+    generadorID = 0 #fjkshf
     def __init___(self, nombre, dias = []):
         self._dias = dias
         self._nombre = nombre
